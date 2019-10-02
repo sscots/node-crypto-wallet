@@ -1,0 +1,12 @@
+{
+  "database": {
+    "host": "localhost",
+    "user": "db_user",
+    "password": "db_password",
+    "database": "db_name",
+    "port": "5432"
+  },
+  "jwt": {
+    "secret": "??a9$%9cahsdc9*(CHa7abcd"
+  }
+}
